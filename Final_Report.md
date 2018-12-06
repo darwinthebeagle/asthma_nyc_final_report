@@ -266,3 +266,15 @@ poverty in a particular neighborhood, that neighborhood on average
 experiences an increase of 3.46 ED visits for PM 2.5-attributable asthma
 per every 100,000 adults and an increase of 5.66 ED visits for PM
 2.5-attributable asthma per every 100,000 children.
+
+### Website:
+
+The website that we built for this project can be found
+[here](https://darwinthebeagle.github.io/asthma_nyc/)
+
+### Acknowledgements:
+
+Many thanks to Professor Jeff Goldsmith,his awesome
+[site](http://p8105.com/index.html) and the teaching team. Special
+thanks to our teaching assistant for this project Junting Ren for
+answering all our many questions.
