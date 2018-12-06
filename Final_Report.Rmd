@@ -54,7 +54,7 @@ Intial plan analyses/visualizations and outcome
   - Time was not continious, there isn't data from 2008, and the cases were grouped into two time periods, 2005 to 2007 and 2009 to 2011. Made this a shiny bargraph instead.
   
 - Graph displaying how different age groups (children, adults, elderly) may be affected differently by air quality in health outcomes
-  - this last plot was merged into shiny bargraph as a age group filter
+  - This last plot was merged into shiny bargraph as an age group filter.
 
 ----------
 

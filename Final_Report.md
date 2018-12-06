@@ -116,8 +116,8 @@ Intial plan analyses/visualizations and outcome
   - Graph displaying how different age groups (children, adults,
     elderly) may be affected differently by air quality in health
     outcomes
-      - this last plot was merged into shiny bargraph as a age group
-        filter
+      - This last plot was merged into shiny bargraph as an age group
+        filter.
 
 -----
 
@@ -274,7 +274,7 @@ The website that we built for this project can be found
 
 ### Acknowledgements:
 
-Many thanks to Professor Jeff Goldsmith,his awesome
+Many thanks to Professor Jeff Goldsmith, his awesome
 [site](http://p8105.com/index.html) and the teaching team. Special
 thanks to our teaching assistant for this project Junting Ren for
 answering all our many questions.
