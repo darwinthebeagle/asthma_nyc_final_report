@@ -127,6 +127,6 @@ The website that we built for this project can be found [here](https://darwinthe
 
 ### Acknowledgements:
 
-Many thanks to Professor Jeff Goldsmith,his awesome [site](http://p8105.com/index.html) and the teaching team. Special thanks to our teaching assistant for this project Junting Ren for answering all our many questions.
+Many thanks to Professor Jeff Goldsmith, his awesome [site](http://p8105.com/index.html) and the teaching team. Special thanks to our teaching assistant for this project Junting Ren for answering all our many questions.
 
 
